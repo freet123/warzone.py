@@ -18,7 +18,7 @@ from discord.ext.commands import has_permissions, MissingPermissions
 #              à rajouter pour personnaliser le bot:
 
 prefix = "z!" #rajoute le prefix dedans  
-TOKEN = "Njk0MjIzMzgwNDkyMzIwODMw.XoIgkA.NPyR_YnA98AAkDTcKPVme9N9reA" #rajoute le token du bot que tu as créer
+#TOKEN = "" #rajoute le token du bot que tu as créer
 status_du_bot = discord.Status.online #mettre après le '.' par: online / idle / dnd / invisible
 type_activity = discord.ActivityType.watching #mettre après le '.' par unknow / playing / streaming / listening / watching
 activity = f"les inscriptions" #rajouter le status(ex: (regarde) le clan)
